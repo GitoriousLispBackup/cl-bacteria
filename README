@@ -1,0 +1,11 @@
+This is Bacteria, a lightweight Common Lisp library for dataflow (or reactive) programming. It compares to Cells but it is simpler and not tied to CLOS.
+
+--- License ---
+
+Bacteria is distributed under the GPLv3. See the file COPYING for details.
+Please contact the author if you have questions about licensing or if you want to use it
+under a different license.
+
+--- Further information ---
+
+The home of bacteria is <http://code.google.com/p/cl-bacteria>.
